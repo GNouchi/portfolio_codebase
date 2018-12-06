@@ -1,4 +1,5 @@
-# portfolio Deployed to <a href="https://gnouchi.github.io/portfolio/"> gnouchi.github.io/portfolio/ </a>
+# Portfolio 
+Deployed to <a href="https://gnouchi.github.io/portfolio/"> gnouchi.github.io/portfolio/ </a>
 
 Short Term 
 <li> Fix Material Icons dependency which is broken and replace FA-Icons with Material Icons </li> 
