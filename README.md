@@ -11,7 +11,7 @@ Deployed to <a href="https://gnouchi.github.io/portfolio/"> gnouchi.github.io/po
 
 <h4> Long Term  </h4>
 <ul>
-  <li> Remove Materialize or port over codebase into https://material.angularjs.org/ /li>
+  <li> Remove Materialize or port over codebase into https://material.angularjs.org/ </li>
   <li> Implement Angular Lazy Loading </li>
   <li> Redo contact footer module </li>
   <li> Implement contact me via push notification </li>
