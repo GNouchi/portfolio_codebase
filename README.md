@@ -19,3 +19,8 @@ Deployed to <a href="https://gnouchi.github.io/portfolio/"> gnouchi.github.io/po
   <li> Add Blog or Influences section - Menu will need to be changed to collapse on med-small </li>
   <li> Notification Discord bot...ha! </li>
 </ul>
+
+
+Due to Angular 6 change to build path, prod commands are:
+ng build --prod --base-href https://gnouchi.github.io/portfolio
+ng --dir=dist/public
